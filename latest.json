@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "2.10.1",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.10.1/DriveSmart-2.10.1.apk",
-  "notes": "Tablet: o app gira junto com a tela e se ajusta à janela. O card da oferta fica do tamanho da janela da Uber/99 na tela dividida."
+  "versionCode": 27,
+  "versionName": "2.11.0",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.11.0/DriveSmart-2.11.0.apk",
+  "notes": "Novo: o card mostra o bairro de destino e a distância da viagem, e a voz fala o bairro no fim. Em Ler ofertas, cadastre seus bairros sem volta: quando a oferta for pra um deles, o card avisa e a voz fala antes de tudo."
 }
