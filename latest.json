@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "2.12.0",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.12.0/DriveSmart-2.12.0.apk",
-  "notes": "Caixa mais confiável: o app lê o ganho de hoje direto da tela inicial da Uber, mostra Ganhos de hoje (com os gastos à parte) e o mês não perde corridas. Encerrar o dia já vem com o valor que a Uber mostra. Ofertas repetidas não contam duas vezes."
+  "versionCode": 30,
+  "versionName": "2.12.1",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.12.1/DriveSmart-2.12.1.apk",
+  "notes": "Novas opções de ganho: inDrive, Velox 11 e Vai Moby. Inclui as melhorias do Caixa da 2.12.0."
 }
