@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "2.9.2",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.9.2/DriveSmart-2.9.2.apk",
-  "notes": "O card agora aparece também com a 99 minimizada. Se o celular pedir para permitir instalar pelo DriveSmart, permita e volte ao app: a instalação continua sozinha."
+  "versionCode": 22,
+  "versionName": "2.9.3",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.9.3/DriveSmart-2.9.3.apk",
+  "notes": "As próximas atualizações não bloqueiam mais a Leitura automática. Se depois de atualizar a leitura pedir para ser ligada e aparecer \"Configuração restrita\", veja a ajuda na tela de configuração."
 }
