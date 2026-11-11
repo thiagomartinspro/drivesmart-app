@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "2.10.0",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.10.0/DriveSmart-2.10.0.apk",
-  "notes": "Agora o app acompanha cada corrida aceita até o fim. Só as concluídas entram no Caixa; as canceladas não contam. Para corrigir, toque na corrida."
+  "versionCode": 26,
+  "versionName": "2.10.1",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.10.1/DriveSmart-2.10.1.apk",
+  "notes": "Tablet: o app gira junto com a tela e se ajusta à janela. O card da oferta fica do tamanho da janela da Uber/99 na tela dividida."
 }
