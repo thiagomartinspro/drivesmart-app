@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "2.9.5",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.9.5/DriveSmart-2.9.5.apk",
-  "notes": "Agora dá para editar ganhos e gastos: toque no lançamento no Caixa. Segurar exclui, com opção de Desfazer."
+  "versionCode": 25,
+  "versionName": "2.10.0",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.10.0/DriveSmart-2.10.0.apk",
+  "notes": "Agora o app acompanha cada corrida aceita até o fim. Só as concluídas entram no Caixa; as canceladas não contam. Para corrigir, toque na corrida."
 }
