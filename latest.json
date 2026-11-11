@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "2.9.3",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.9.3/DriveSmart-2.9.3.apk",
-  "notes": "As próximas atualizações não bloqueiam mais a Leitura automática. Se depois de atualizar a leitura pedir para ser ligada e aparecer \"Configuração restrita\", veja a ajuda na tela de configuração."
+  "versionCode": 23,
+  "versionName": "2.9.4",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.9.4/DriveSmart-2.9.4.apk",
+  "notes": "As corridas aceitas agora entram sozinhas no Caixa. Se alguma não for marcada, segure ela em Corridas > Todas as ofertas. Não precisa mais lançar os ganhos à mão."
 }
