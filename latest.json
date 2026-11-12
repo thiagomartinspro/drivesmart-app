@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "2.15.1",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.15.1/DriveSmart-2.15.1.apk",
-  "notes": "Fase de teste com código de tester: ao abrir, o app pede o código recebido no grupo. O app passa a enviar sozinho um resumo diário de uso, sem endereços nem dados de passageiros."
+  "versionCode": 38,
+  "versionName": "2.16.2",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.16.2/DriveSmart-2.16.2.apk",
+  "notes": "Corridas da Uber marcadas pelas telas novas (Encontro com / Destino de): aceita, concluída e cancelada entram certo na lista e no Caixa. Aviso de Acessibilidade antes de ligar a leitura."
 }
