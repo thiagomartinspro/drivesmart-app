@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "2.14.0",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.14.0/DriveSmart-2.14.0.apk",
-  "notes": "O dia de trabalho começa sozinho quando você fica online e termina quando você para, com o km estimado pelas corridas. Uma vez por semana o app pede o km do painel para ficar mais certo. Dá para conferir e corrigir o dia no Caixa."
+  "versionCode": 33,
+  "versionName": "2.14.1",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.14.1/DriveSmart-2.14.1.apk",
+  "notes": "Botão do grupo de testers no WhatsApp dentro do app. Inclui o dia de trabalho que começa e termina sozinho."
 }
