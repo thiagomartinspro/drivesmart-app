@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "2.13.0",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.13.0/DriveSmart-2.13.0.apk",
-  "notes": "Corridas com filtro por Hoje, Semana, Mês e Tudo, e um resumo no topo: número de corridas, ganho, lucro, média por corrida, por km e taxa de aceite."
+  "versionCode": 32,
+  "versionName": "2.14.0",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.14.0/DriveSmart-2.14.0.apk",
+  "notes": "O dia de trabalho começa sozinho quando você fica online e termina quando você para, com o km estimado pelas corridas. Uma vez por semana o app pede o km do painel para ficar mais certo. Dá para conferir e corrigir o dia no Caixa."
 }
