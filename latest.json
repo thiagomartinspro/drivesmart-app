@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "2.14.1",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.14.1/DriveSmart-2.14.1.apk",
-  "notes": "Botão do grupo de testers no WhatsApp dentro do app. Inclui o dia de trabalho que começa e termina sozinho."
+  "versionCode": 35,
+  "versionName": "2.15.1",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.15.1/DriveSmart-2.15.1.apk",
+  "notes": "Fase de teste com código de tester: ao abrir, o app pede o código recebido no grupo. O app passa a enviar sozinho um resumo diário de uso, sem endereços nem dados de passageiros."
 }
