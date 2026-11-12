@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "2.16.2",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.16.2/DriveSmart-2.16.2.apk",
-  "notes": "Corridas da Uber marcadas pelas telas novas (Encontro com / Destino de): aceita, concluída e cancelada entram certo na lista e no Caixa. Aviso de Acessibilidade antes de ligar a leitura."
+  "versionCode": 39,
+  "versionName": "2.16.3",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.16.3/DriveSmart-2.16.3.apk",
+  "notes": "Relatório do teste mais preciso: valor das corridas separado por plataforma para comparar com o ganho da Uber. O app passa a seguir o Modo teste e a versão mínima definidos no painel."
 }
