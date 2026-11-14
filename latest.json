@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "2.18.2",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.18.2/DriveSmart-2.18.2.apk",
-  "notes": "Narração por voz corrigida em aparelhos que não falavam. Conferência com a Uber mais segura: as corridas só mudam depois de o app ler o dia inteiro do histórico."
+  "versionCode": 46,
+  "versionName": "2.18.4",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.18.4/DriveSmart-2.18.4.apk",
+  "notes": "Mais leve: a 99 e a Uber param de fechar sozinhas em celulares com pouca memória. Voz corrigida em aparelhos que não falavam. Conferência com a Uber mais segura."
 }
