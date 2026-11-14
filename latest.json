@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "2.18.1",
-  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.18.1/DriveSmart-2.18.1.apk",
-  "notes": "Conferência automática com a Uber: abra Ganhos > Histórico de ganhos e o app rola a lista sozinho, acertando as corridas e os valores do dia. O Seu dia passa a mostrar os valores conferidos. Lembrete para conferir quando você fica offline."
+  "versionCode": 44,
+  "versionName": "2.18.2",
+  "apkUrl": "https://github.com/thiagomartinspro/drivesmart-app/releases/download/v2.18.2/DriveSmart-2.18.2.apk",
+  "notes": "Narração por voz corrigida em aparelhos que não falavam. Conferência com a Uber mais segura: as corridas só mudam depois de o app ler o dia inteiro do histórico."
 }
